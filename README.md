@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Shalit's MP3 Collections
 
-You can use the [editor on GitHub](https://github.com/jmahc/what-da/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The following endpoints are available:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- `http://mcardle.tech/what-da/jlp`
+- `http://mcardle.tech/what-da/penis-music`
+- `http://mcardle.tech/what-da/spcc`
 
-### Markdown
+### JLP
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The following *Jesse Lee Peterson* MP3's are available:
 
-```markdown
-Syntax highlighted code block
+- `AintThatAmazin.mp3`
+- `amazin_i_have_no_anger.wav`
 
-# Header 1
-## Header 2
-### Header 3
+### Penis Music
 
-- Bulleted
-- List
+The following *Penis Music* MP3's are available:
 
-1. Numbered
-2. List
+- `poopcoin1.mp3`: 24 second clip
 
-**Bold** and _Italic_ and `Code` text
+### SPCC
 
-[Link](url) and ![Image](src)
-```
+The following *SPCC* MP3's are available:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- `imblack.mp3`
+- `222-do_you_understand_sir.mp3`
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jmahc/what-da/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
