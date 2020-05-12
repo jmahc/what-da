@@ -13,7 +13,7 @@ The following main commands are available:
 - `!discord` invitation: `https://discord.gg/G3qcT7j`
 - `!list` of soundboard options: `List soundboard options: !jlp, !songs, !spcc`
 - `!twitter` account: `Follow Shalit on twitter: @sh4llot`
-- `!jlp` for Jesse Lee Peterson effects: `!aintthatamazin !noanger !amazin !evil !areyouabetamale !slutmaker !beta !lying !haha !mama !notall !lesbian !thatsgreat`
+- `!jlp` for Jesse Lee Peterson effects: `!aintthatamazin !noanger !amazin !evil !areyouabetamale !slutmaker !beta !lying !haha !hbd !mama !notall !lesbian !thatsgreat`
 - `!songs` available: `Available songs for subscribers: !penismusic (300), !stopcallingme (500), !bigred (500)`
 - `!spcc` for Southern Poverty Call Center (SPCC): `!222 !222fb !hello !huuh !imblack !postits !moreblack !nonono !ohcmon1 !ohcmon2 !ohcmon3 !ohyeah !press3 !rru !sir1 !sir2 !youcmon`
 
@@ -38,6 +38,7 @@ The following *Jesse Lee Peterson* MP3's are available for subscribers:
 - `!beta`: `https://mcardle.tech/what-da/jlp/Beta.mp3`
 - `!lying`: `http://mcardle.tech/what-da/jlp/BoyYouLyingThroughYourTeeth.mp3`
 - `!haha`: `http://mcardle.tech/what-da/jlp/haha.mp3`
+- `!hbd`: `http://mcardle.tech/what-da/jlp/birthday-song.mp3`
 - `!mama`: `http://mcardle.tech/what-da/jlp/MammaMiaAhAhAh.mp3`
 - `!notall`: `http://mcardle.tech/what-da/jlp/NotAllButMost.mp3`
 - `!lesbian`: `http://mcardle.tech/what-da/jlp/SheIsALesbian.mp3`
