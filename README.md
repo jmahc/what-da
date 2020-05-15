@@ -48,6 +48,7 @@ The following *Jesse Lee Peterson* MP3's are available for subscribers:
 - `!mama`: `http://mcardle.tech/what-da/jlp/MammaMiaAhAhAh.mp3`
 - `!notall`: `http://mcardle.tech/what-da/jlp/NotAllButMost.mp3`
 - `!lesbian`: `http://mcardle.tech/what-da/jlp/SheIsALesbian.mp3`
+- `!stopcringing`: `http://mcardle.tech/what-da/jlp/stop-cringing.mp3`
 - `!thatsgreat`: `http://mcardle.tech/what-da/jlp/ThatsGreat.mp3`
 
 ### SPCC
