@@ -27,6 +27,7 @@ Let's add the following:
 
 The following songs are available for subscribers:
 
+- `!hbd`: `http://mcardle.tech/what-da/jlp/birthday-song.mp3`
 - `!penismusic`: `https://mcardle.tech/what-da/songs/penis-music-short.mp3` (25s duration)
 - `!bigred`: `https://youtu.be/ASgjYxMr7us?t=15` (158s duration)
 - `!stopcallingme`: `https://www.youtube.com/watch?v=vPBOJSKmZm8&t=15` (286s duration)
@@ -44,7 +45,6 @@ The following *Jesse Lee Peterson* MP3's are available for subscribers:
 - `!beta`: `https://mcardle.tech/what-da/jlp/Beta.mp3`
 - `!lying`: `http://mcardle.tech/what-da/jlp/BoyYouLyingThroughYourTeeth.mp3`
 - `!haha`: `http://mcardle.tech/what-da/jlp/haha.mp3`
-- `!hbd`: `http://mcardle.tech/what-da/jlp/birthday-song.mp3`
 - `!mama`: `http://mcardle.tech/what-da/jlp/MammaMiaAhAhAh.mp3`
 - `!notall`: `http://mcardle.tech/what-da/jlp/NotAllButMost.mp3`
 - `!lesbian`: `http://mcardle.tech/what-da/jlp/SheIsALesbian.mp3`
@@ -70,6 +70,7 @@ The following *SPCC* MP3's are available:
 - `!rru`: `http://mcardle.tech/what-da/spcc/rru_huh_huh.mp3`
 - `!sir2`: `http://mcardle.tech/what-da/spcc/sir_assertive.mp3`
 - `!sir1`: `http://mcardle.tech/what-da/spcc/sir_i_dont_appreciate_this.mp3`
+- `!sporties`: `http://mcardle.tech/what-da/spcc/sporties.mp3`
 - `!youcmon`: `http://mcardle.tech/what-da/spcc/you_cmon.mp3`
 
 ---
