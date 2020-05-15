@@ -7,6 +7,12 @@ The following main commands are available:
 - `!list`
 - `!twitter`
 
+## To Do
+
+Let's add the following:
+
+- Norm MacDonald quotes
+
 ### Current Main Command Responses
 
 - `!commands` available: `!discord, !list, !jlp, !spcc, !sr (song requests, when active)`
@@ -21,7 +27,7 @@ The following main commands are available:
 
 The following songs are available for subscribers:
 
-- `!penismusic`: `https://mcardle.tech/what-da/penis-music/poopcoin1.mp3` (25s duration)
+- `!penismusic`: `https://mcardle.tech/what-da/songs/penis-music-short.mp3` (25s duration)
 - `!bigred`: `https://youtu.be/ASgjYxMr7us?t=15` (158s duration)
 - `!stopcallingme`: `https://www.youtube.com/watch?v=vPBOJSKmZm8&t=15` (286s duration)
 
